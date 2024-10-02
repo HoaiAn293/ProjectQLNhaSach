@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\bin\Debug\fHoaiAn.exe.config
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\bin\Debug\fHoaiAn.exe
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\bin\Debug\fHoaiAn.pdb
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\frmHoaiAn.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.fBaoCao.resources
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.fThongKe.resources
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.fChiTietHD.resources
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.fHoaDon.resources
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.fKho.resources
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.fThemSuaHD.resources
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.Properties.Resources.resources
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\frmHoaiAn.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\frmHoaiAn.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.exe
+C:\Users\DELL\source\repos\fHoaiAn\fHoaiAn\obj\Debug\fHoaiAn.pdb

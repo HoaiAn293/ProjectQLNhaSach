@@ -10,3 +10,15 @@ C:\Users\ThinkPad\OneDrive\Desktop\WDF\BookStore\BookStore\obj\Debug\BookStore.c
 C:\Users\ThinkPad\OneDrive\Desktop\WDF\BookStore\BookStore\obj\Debug\BookStore.exe
 C:\Users\ThinkPad\OneDrive\Desktop\WDF\BookStore\BookStore\obj\Debug\BookStore.pdb
 C:\Users\ThinkPad\OneDrive\Desktop\WDF\BookStore\BookStore\obj\Debug\BookStore.fTaiKhoan.resources
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.fDangNhap.resources
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.fTaiKhoan.resources
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.fView.resources
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\DELL\Downloads\WDF(Duy)\BookStore\BookStore\obj\Debug\BookStore.pdb
