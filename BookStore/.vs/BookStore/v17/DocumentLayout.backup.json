@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|c:\\users\\thinkpad\\onedrive\\desktop\\wdf\\bookstore\\bookstore\\fview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\fview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\bookstore\\fview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\fview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\bookstore\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\bookstore\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\bookstore\\ftaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\ftaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\bookstore\\ftaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2889A-6054-452A-832D-4517FA6DB74A}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\ftaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BookStore\\fTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fTaiKhoan.cs",
+              "RelativeToolTip": "BookStore\\fTaiKhoan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:03:22.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BookStore\\fTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fTaiKhoan.cs [Design]",
+              "RelativeToolTip": "BookStore\\fTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:02:18.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fDangNhap.cs",
+              "RelativeDocumentMoniker": "BookStore\\fDangNhap.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fDangNhap.cs",
+              "RelativeToolTip": "BookStore\\fDangNhap.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:54:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fDangNhap.cs",
+              "RelativeDocumentMoniker": "BookStore\\fDangNhap.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fDangNhap.cs [Design]",
+              "RelativeToolTip": "BookStore\\fDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:54:45.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fView.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fView.cs",
+              "RelativeDocumentMoniker": "BookStore\\fView.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fView.cs",
+              "RelativeToolTip": "BookStore\\fView.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:46:53.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fView.cs",
+              "RelativeDocumentMoniker": "BookStore\\fView.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\OneDrive\\Desktop\\WDF\\BookStore\\BookStore\\fView.cs [Design]",
+              "RelativeToolTip": "BookStore\\fView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:11:02.119Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
