@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{57BA68F9-4A66-46C4-9EE3-2F311EEFD42A}|frmHoaiAn.csproj|solutionrelative:fchitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57BA68F9-4A66-46C4-9EE3-2F311EEFD42A}|frmHoaiAn.csproj|c:\\users\\dell\\downloads\\projectltwindows\\fhoaian\\fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{57BA68F9-4A66-46C4-9EE3-2F311EEFD42A}|frmHoaiAn.csproj|C:\\Users\\DELL\\Downloads\\ProjectLTWindows\\fHoaiAn\\fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA68F9-4A66-46C4-9EE3-2F311EEFD42A}|frmHoaiAn.csproj|solutionrelative:fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA68F9-4A66-46C4-9EE3-2F311EEFD42A}|frmHoaiAn.csproj|C:\\Users\\DELL\\Downloads\\ProjectLTWindows\\fHoaiAn\\fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{57BA68F9-4A66-46C4-9EE3-2F311EEFD42A}|frmHoaiAn.csproj|solutionrelative:fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +31,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ProjectLTWindows\\fHoaiAn\\fBaoCao.cs",
+              "RelativeDocumentMoniker": "fBaoCao.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ProjectLTWindows\\fHoaiAn\\fBaoCao.cs*",
+              "RelativeToolTip": "fBaoCao.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:33:32.861Z"
             },
             {
               "$type": "Document",
@@ -42,15 +58,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "fBaoCao.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ProjectLTWindows\\fHoaiAn\\fBaoCao.cs",
               "RelativeDocumentMoniker": "fBaoCao.cs",
-              "ToolTip": "C:\\Users\\DELL\\Downloads\\ProjectLTWindows\\fHoaiAn\\fBaoCao.cs [Design]",
-              "RelativeToolTip": "fBaoCao.cs [Design]",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ProjectLTWindows\\fHoaiAn\\fBaoCao.cs [Design]*",
+              "RelativeToolTip": "fBaoCao.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:00:26.704Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-02T15:00:26.704Z"
             }
           ]
         },
